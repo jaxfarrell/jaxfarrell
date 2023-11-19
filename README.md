@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaxfarrell
-- 👀 I’m interested in day trading, realestate, AI and macine learning
+- 👀 I’m interested in day trading, realestate, AI and machine learning
 - 🌱 I’m currently learning AI and machine learning
 
 <!---
